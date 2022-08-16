@@ -37,26 +37,50 @@ function Experience() {
 
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"
-          date="2009-2011"
+          date="2006-2007"
           iconStyle={{ background: "#e9d25b", color: "#fff"}}
           icon={<WorkIcon />}
           >
           <h3 className='vertical-timeline-element-title'> 
-          Institut Supérieur des Arts et Multimédia Manouba
+          Teleperformance
           </h3>
-          <p>Mastère en Multimédia et Arts de l'image</p>
+          <p>conseiller client</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"
-          date="2009-2011"
+          date="2007-2022"
           iconStyle={{ background: "#e9d25b", color: "#fff"}}
           icon={<WorkIcon />}
           >
           <h3 className='vertical-timeline-element-title'> 
-          Institut Supérieur des Arts et Multimédia Manouba
+          Lycée Manouba
           </h3>
-          <p>Mastère en Multimédia et Arts de l'image</p>
+          <p>Professeur d'Informatique</p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement 
+          className="vertical-timeline-element--education"
+          date="2018-2020"
+          iconStyle={{ background: "#e9d25b", color: "#fff"}}
+          icon={<WorkIcon />}
+          >
+          <h3 className='vertical-timeline-element-title'> 
+          IT SYSTEMS
+          </h3>
+          <p>Contrat en alternance</p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement 
+          className="vertical-timeline-element--education"
+          date="2020-2022"
+          iconStyle={{ background: "#e9d25b", color: "#fff"}}
+          icon={<WorkIcon />}
+          >
+          <h3 className='vertical-timeline-element-title'> 
+          WEB-E-GO Consulting
+          </h3>
+          <p>Freelance</p>
         </VerticalTimelineElement>
 
       </VerticalTimeline>

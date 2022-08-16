@@ -13,9 +13,8 @@ function Home() {
             <p>
               A front-end developper
             </p>
-            <LinkedInIcon />
-            <EmailIcon />
-            <GithubIcon />
+            <a href="https://www.linkedin.com/in/nesrine-ben-mohamed/" target='_blank' rel="noreferrer"><LinkedInIcon /></a>
+            <a href="https://github.com/nesrine-ben" target='_blank' rel="noreferrer"><GithubIcon /></a>
           </div>
       </div>
       <div className='skills'>
@@ -30,7 +29,7 @@ function Home() {
           <li className='item'>
             <h2>Back-End</h2>
             <span>
-            NodeJS, .NET, MySQL
+            NodeJS, .NET, MySQL, Firebase
             </span>
           </li>
           <li className='item'>
