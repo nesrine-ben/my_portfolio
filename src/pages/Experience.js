@@ -49,7 +49,7 @@ function Experience() {
 
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"
-          date="2007-2022"
+          date="2007-2021"
           iconStyle={{ background: "#e9d25b", color: "#fff"}}
           icon={<WorkIcon />}
           >
@@ -61,26 +61,14 @@ function Experience() {
 
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"
-          date="2018-2020"
+          date="2021-2022"
           iconStyle={{ background: "#e9d25b", color: "#fff"}}
           icon={<WorkIcon />}
           >
           <h3 className='vertical-timeline-element-title'> 
-          IT SYSTEMS
+          Ministère de l’éducation Tunisie
           </h3>
-          <p>Contrat en alternance</p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement 
-          className="vertical-timeline-element--education"
-          date="2020-2022"
-          iconStyle={{ background: "#e9d25b", color: "#fff"}}
-          icon={<WorkIcon />}
-          >
-          <h3 className='vertical-timeline-element-title'> 
-          WEB-E-GO Consulting
-          </h3>
-          <p>Freelance</p>
+          <p>Développeuse Front-end</p>
         </VerticalTimelineElement>
 
       </VerticalTimeline>

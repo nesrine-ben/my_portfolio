@@ -3,6 +3,7 @@ import projet2 from '../assets/projet2.png';
 import projet3 from '../assets/projet3.png';
 import projet4 from '../assets/projet4.png';
 import projet5 from '../assets/projet5.png';
+import projet6 from '../assets/projet6.png';
 
 
 
@@ -39,7 +40,12 @@ export const ProjectList = [
         skills: "JavaScript, HTML, CSS, React",
         link:"https://github.com/nesrine-ben/Airbnb",
     },
-    
+    {
+      name: "E-commerce",
+      image: projet6,
+      skills: "JavaScript, HTML, CSS, React, NextJs",
+      link:"https://github.com/nesrine-ben/site-ecommerce-redux",
+    },
     
 
 
